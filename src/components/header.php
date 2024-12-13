@@ -2,7 +2,7 @@
   <div class="my-0 mr-md-auto font-weight-normal">
     <a class="logo" href="http://apareciumlabs.com/" target="_blank">
       <img
-        src="assets/img/logo_aparecium_text_only.svg"
+        src="assets/img/logo_aparecjhuigium_text_only.svg"
         width="150px"
         alt="Logo"/>
     </a>
